@@ -1,16 +1,17 @@
-# Escuela Colombiana de Ingeniería Julio Garavito - Arquitecturas Empresarial AREP - Primer Trabajo
+# Escuela Colombiana de Ingeniería Julio Garavito - Arquitecturas Empresarial AREP - Segundo Trabajo
 
 # INTERPRETES, CANALES DE COMUNICACIÓN Y MEMORIA
 
 ## Descripcion
 
-  Este aplicaion calcula la media y desviacion estandar usando una implementacion propia de LinkedList.
+  Este aplicacion calcula la media y desviacion estandar usando una implementacion propia de LinkedList.
  
 ## Diseño
 
-  This is the intended design for this project
+  Diseño de la aplicación
   
-  ![Diseño](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/images/Design.png)
+  ![Diseño1](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/diagrama1.jpg)
+  ![Diseño2](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/diagrama2.jpg)
   
 
 ## Guia
@@ -65,29 +66,26 @@ mvn test
 ```      
 Las pruebas van a ser ejecutadas con los dos datasets adjuntos:
 
-![test1](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/images/datos-1.JPG)
+![test1](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/1.JPG)
 
-![test2](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/images/datos-2.JPG)
+![test2](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/2.JPG)
+
+![test3](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/3.JPG)
 
 Esperamos obtener los siguientes resultados:
 
-![test3](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/images/datos-esperados.JPG)     
+![test4](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/4.JPG)    
 
-Pruebas propuestas:
-
-![test3](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/images/Prueba-mean.JPG) 
-
-![test4](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/images/Prueba-sd.JPG)  
 
 Pruebas ejecutandose satisfactoriamente:
 
-![test5](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/images/Pruebas-pasadas.JPG)
+![test5](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/5.JPG)
 
      
     
 ## Documentacion
   
-Para encontrar toda la documentación relacionada puedes hacer click [aqui](https://github.com/nicolasOL/Introduccion-MVN-GIT/tree/master/Doc)
+Para encontrar toda la documentación relacionada puedes hacer click [aqui](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/tree/master/docs)
   
   ## Author
   
