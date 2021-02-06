@@ -10,8 +10,8 @@
 
   Diseño de la aplicación
   
-  ![Diseño1](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/images/diseño1.JPG)
-  ![Diseño2](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/images/diseño2.JPG)
+  ![Diseño1](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/diagrama1.jpg)
+  ![Diseño2](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/diagrama2.jpg)
   
 
 ## Guia
@@ -66,20 +66,20 @@ mvn test
 ```      
 Las pruebas van a ser ejecutadas con los dos datasets adjuntos:
 
-![test1](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/images/1.JPG)
+![test1](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/1.JPG)
 
-![test2](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/images/2.JPG)
+![test2](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/2.JPG)
 
-![test3](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/images/3.JPG)
+![test3](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/3.JPG)
 
 Esperamos obtener los siguientes resultados:
 
-![test4](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/images/4.JPG)    
+![test4](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/4.JPG)    
 
 
 Pruebas ejecutandose satisfactoriamente:
 
-![test5](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/images/5.JPG)
+![test5](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/images/5.JPG)
 
      
     
