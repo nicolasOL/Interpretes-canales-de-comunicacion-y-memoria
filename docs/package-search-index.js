@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.escuelaing.arem.icm.arep"},{"l":"edu.escuelaing.arem.icm.arep.LinkedList"}]
