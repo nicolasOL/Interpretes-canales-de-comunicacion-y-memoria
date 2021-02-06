@@ -14,6 +14,10 @@
   
 
 ## Guia
+
+## Cuenta con 
+* [Heroku](https://heroku.com) - Despliegue web [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://icm-arep.herokuapp.com/)
+* [Circle CI]() - Integración Continua ![CircleCI](https://circleci.com/gh/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria.svg?style=svg&circle-token=042c0e4d804fd47371e80dbb9853f71792a77e30)
   
   ### Requisitos
   
